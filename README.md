@@ -49,7 +49,7 @@ This project is a simple yet scalable **E-Commerce website** developed using **R
 
 ##💡 Getting Started
 
-# 1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/sarthakmahapatra05/Ecommerce-website.git
