@@ -61,13 +61,13 @@ Navigate to the project:
 cd Ecommerce-website
 ```
 
-# 2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-#3️⃣ Run the Development Server
+##3️⃣ Run the Development Server
 
 ```bash
 npm run dev
@@ -77,7 +77,7 @@ The project will be accessible at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-# 🔧 Possible Enhancements
+## 🔧 Possible Enhancements
 
 * Product detail pages
 * Cart management system
@@ -88,7 +88,7 @@ The project will be accessible at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-# 🙌 Contributing
+## 🙌 Contributing
 
 Contributions, feature requests, and suggestions are welcome! Fork the repo, open a pull request, or submit issues.
 
