@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website - React Based Online Store
+# 🛒 E-Commerce Website
 
 This project is a simple yet scalable **E-Commerce website** developed using **React.js**. It serves as a frontend prototype for an online shopping platform, showcasing clean design and component-based architecture.
 
