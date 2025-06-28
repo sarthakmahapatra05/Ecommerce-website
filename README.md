@@ -14,12 +14,6 @@ This project is a simple yet scalable **E-Commerce website** developed using **R
 
 ---
 
-## 📸 Screenshots
-
-*You can add screenshots here to showcase your homepage, product cards, etc.*
-
----
-
 ## 🛠️ Tech Stack
 
 * **React.js**
