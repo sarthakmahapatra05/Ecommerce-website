@@ -19,7 +19,7 @@ This project is a simple yet scalable **E-Commerce website** developed using **R
 * **React.js**
 * **Vite** (for lightning-fast development)
 * **JavaScript (ES6+)**
-* Tailwind CSS** (Based on your setup)
+* **Tailwind CSS** (Based on your setup)
 * **HTML5**
 
 ---
